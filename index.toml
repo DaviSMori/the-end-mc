@@ -257,6 +257,30 @@ file = "config/selling_bin-server.toml"
 hash = "cb30f5301d2c4306fe9516f95f88fa0922f2b6ade07a8982db5644e7d0da2360"
 
 [[files]]
+file = "config/simplemenu.json5"
+hash = "61da1aa9c18eb19482965660135505ca63e7b8f2625aa3cd6c42c88f9fa045ea"
+
+[[files]]
+file = "config/simplemenu/background/background.png"
+hash = "61db6a57c1b16aba12f18fd63b03f57ed1af40f584b8da1d5af21a6ec3da3935"
+
+[[files]]
+file = "config/simplemenu/icon/icon_16x16.png"
+hash = "e52d23c313dcb9d60b1061c635205213cb8d072061b7f17a92d2e7a7e40753e1"
+
+[[files]]
+file = "config/simplemenu/icon/icon_32x32.png"
+hash = "fc19da09e10cbb309ce359a21aa8748568b664e65c2b358a7efeb87529761ba5"
+
+[[files]]
+file = "config/simplemenu/logo/edition.png"
+hash = "1a849a3bd7a33b4803fddce02ab255884fcc4e45314ce846a1cf96ab166e3082"
+
+[[files]]
+file = "config/simplemenu/logo/logo.png"
+hash = "9b9d0e609acafcd55c471e333d0805e95447e850c61d88aacd7e07f0cd8b2efa"
+
+[[files]]
 file = "config/skinrestorer/config.json"
 hash = "f534c528527dec2b5d13f9817b97179ba4107bec810d2ed4c605876a37b8b79f"
 
@@ -563,6 +587,10 @@ metafile = true
 file = "resourcepacks/simple-grass-flowers.pw.toml"
 hash = "613a9ef85fea79a7428d374d9ad1e01810ca1a692b4d49f1afd3d550dc56f6b1"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "9f0697e76c6cb97f7b100b10cab085dc1db1ae3d62620694ac4c729e60dd61e1"
 
 [[files]]
 file = "shaderpacks/Mellow v3.4.1a.zip.txt"
