@@ -302,6 +302,11 @@ hash = "b55c2455596a9bd9ad627a344b61c450b522085a50a6701ff0152820a1263e6f"
 metafile = true
 
 [[files]]
+file = "mods/inventory-particles.pw.toml"
+hash = "acb326f54c4a29eb810aa9bf5139846edd4a880e5c9b28fa22f070e1a2122f4a"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "963514f43dc039eb17887f45aa8038ff8aeb16a14f34aa350d0a713f48212322"
 metafile = true
@@ -324,6 +329,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "780e21c1d03acbd35f149453fac0d03ce471f8a6f1d13dc3c0bfdbb8aceb1cfa"
+metafile = true
+
+[[files]]
+file = "mods/mossylib.pw.toml"
+hash = "db9599138b69af987b88cee7f8789e9a71a94a2ab164d12e6125d77012ed2b54"
 metafile = true
 
 [[files]]
@@ -369,11 +379,6 @@ metafile = true
 [[files]]
 file = "mods/structory.pw.toml"
 hash = "3c4da8a221086153d491104bba4fd8796dac92d5c3e0b2dc111a6c5d53b65484"
-metafile = true
-
-[[files]]
-file = "mods/tree-harvester.pw.toml"
-hash = "b725323222c04868aa68b032d8d7daece66d73a0ade3e568ab8fdab9c54aa98c"
 metafile = true
 
 [[files]]
