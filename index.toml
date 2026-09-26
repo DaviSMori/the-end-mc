@@ -278,8 +278,8 @@ hash = "c5d8d78265586241cc56bcd4ca45e9b44b55a50399dd101a7be6ce6d5481d0a1"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight-modern-neoforge.pw.toml"
-hash = "7a954bb903597823db5f9040eda91a26c05c009a5de87c2f05e8a46c49377f60"
+file = "mods/farmers-delight-26-neo-ver.pw.toml"
+hash = "aa21a102fc959e2ecada2118f49766f81a7f2c60d5f8a8d3b6a9ed846f0754a1"
 metafile = true
 
 [[files]]
