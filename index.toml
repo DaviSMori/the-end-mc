@@ -363,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "cec3f2f486f76d2763cc3103a5b4d5ee0873406cad8b9276600b404e7d0d11c3"
+hash = "0a281a9eff58b6db4c3c59651b4c3a89f22a3a211f374f9223ef6406287c1b0a"
 
 [[files]]
 file = "resourcepacks/fa-player-extension.pw.toml"
@@ -379,10 +379,6 @@ metafile = true
 file = "resourcepacks/low-fire-pack.pw.toml"
 hash = "cf30836dcbf34e184475012af22e5c9b2afa3b80aa3b4faf2f96c2f6e8fac012"
 metafile = true
-
-[[files]]
-file = "resourcepacks/matcha-vanilla-flavoured-1-12.zip"
-hash = "bf2473cd902ea14f157582202559ecdf15f8603a69de197a2dc5bb66cf224bc7"
 
 [[files]]
 file = "resourcepacks/serified-font.pw.toml"
