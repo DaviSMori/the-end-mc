@@ -1,0 +1,13 @@
+name = "Crops Love Rain"
+filename = "cropsloverain-3.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cRci7UZp/versions/VRcfacK1/cropsloverain-3.2.1.jar"
+hash-format = "sha512"
+hash = "89a9c49e77ddfb38f7ee51d79eba529e4a51264a2584a69ce1a136c9747d1edcbec6a12ebf767ba10266b174ba1d1ef2b024ee6d3a3a07fd9a3a96ab9d5757f5"
+
+[update]
+[update.modrinth]
+mod-id = "cRci7UZp"
+version = "VRcfacK1"

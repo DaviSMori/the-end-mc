@@ -5,12 +5,24 @@ file = ".nojekyll"
 hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
 
 [[files]]
+file = "config/ambientsounds-client.json"
+hash = "c98f572839ace55b0792042fa4b984311e7d876abdaccfc8a4694f5bebad766c"
+
+[[files]]
 file = "config/betteradvancements-client.toml"
 hash = "27b06125fc70db27bdc51b42c9d7242e9091c8810c130e03521a7ff13541aea7"
 
 [[files]]
+file = "config/betterarcheology.jsonc"
+hash = "3308812ac04a345a093f7fdaf3891bfa21b633e9f50f586972e957417d3454c9"
+
+[[files]]
 file = "config/chatanimation.json"
 hash = "b0fa9ec5d41f666fa2c770bb2bde4753cbeeef76909f4765d6ebbf5683c4ae58"
+
+[[files]]
+file = "config/collective.json5"
+hash = "92809d098b5efeca95c37ec4fef9184bd169160d18efecf81f395c4030c0f83f"
 
 [[files]]
 file = "config/comforts-common.toml"
@@ -21,12 +33,28 @@ file = "config/comforts-server.toml"
 hash = "c27c061e92768e23ce3b48007aca2106f9dece4ae9ed16a6bc2b3bfc4fa104c7"
 
 [[files]]
+file = "config/computercraft-client.toml"
+hash = "e125189a1d4c8d9fba9d3aa52a44d0eda8ea80b4a44c5b6003ff6d84484163f1"
+
+[[files]]
+file = "config/computercraft-server.toml"
+hash = "7ba770f3612ebf571a4f18191a3151f16f97102251475f2bbf63c6d0a6d4f12d"
+
+[[files]]
 file = "config/cosmetica/cosmetica.properties"
 hash = "d269c7c086b65a29b1da70af4da01b1e18d0db8b10fc5f282819a4dc3effd90e"
 
 [[files]]
 file = "config/cosmetica/pack_settings.json.disabled"
 hash = "d8ef02c40b10ca28edba23db2be1db2ba5a13c7a7feb7a757089a7374dda09f7"
+
+[[files]]
+file = "config/creativecore-client.json"
+hash = "acb6c8c1394d4d6f2d0c98d5c314c5ef8ad34b8a76f0a420fc596733bcbc51ac"
+
+[[files]]
+file = "config/creativecore.json"
+hash = "5f08d0878d7f89c6b4c947a49dce368d7738255d44fecf9aad59ec6ae8a4fcef"
 
 [[files]]
 file = "config/ecologics-common.toml"
@@ -45,6 +73,10 @@ file = "config/etf_warnings.json"
 hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
+file = "config/fancytabsections-client.toml"
+hash = "8fdc0993ce592d3a233f212c596f57a06da34c737ee655012bda33f5bab24e09"
+
+[[files]]
 file = "config/farmersdelight-client.toml"
 hash = "4404ba02b39d4de63e4ab8fb5dd74e7994c23c67b15319c30f9fa207fa23ab1b"
 
@@ -61,12 +93,16 @@ file = "config/hardcorerevival-common.toml"
 hash = "9e721b6b66d9119885728aa0717e82e584587aafba605b92035f0165da19c907"
 
 [[files]]
+file = "config/inventory_particles.json5"
+hash = "1a4fc0f8b7c44165dfdc6762e98b1a6524d8aa6ed056bc6aaf884f0fa7b89e5f"
+
+[[files]]
 file = "config/iris-excluded.json"
 hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "927d356ca7f595c311384939c6cb51f05a5677d71d1713ec2c93f74d229e881f"
+hash = "149789520f71a31f80aa2064a8ed715f2ac39d3fca93cd3f214ce767e864a23c"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -109,12 +145,24 @@ file = "config/justzoom/config.txt"
 hash = "d0dcbc7c9c28a398ad2b81c1f6779f34beffbf45560c8c02c063077ab32ded45"
 
 [[files]]
+file = "config/libtooltips-client.toml"
+hash = "01b340774fc3a5b61bebf4d9f4b1d08b6b2fdd3986efe260f47fc4b16408c57c"
+
+[[files]]
 file = "config/lootr-client.jsonc"
 hash = "40ee141cd92a979607cff5c87497b27a9f165015bd4ff81bb52d25f358cfc3a3"
 
 [[files]]
 file = "config/lootr-common.jsonc"
 hash = "e67419ff007d96312b24c54ccfd389b3b9e9057672d7d35504f6a3500a3775d9"
+
+[[files]]
+file = "config/naturalist-client.toml"
+hash = "8b0cc3d54025bbbf4a551a83d8b59147e788b2273c2fcf6ba825e4927ad5c35d"
+
+[[files]]
+file = "config/naturalist-server.toml"
+hash = "b0a11f9fa0636e2852345241f28d8992f19c00b6103979d0c87ec17fc8efce14"
 
 [[files]]
 file = "config/neoforge-client.toml"
@@ -127,6 +175,22 @@ hash = "4acb2870232d971c9b5e8c45cc357df125d7526a6b5fb269f9f57b033d34a2bd"
 [[files]]
 file = "config/neoforge-server.toml"
 hash = "48b15278e1ed28dd8e3177b04c13437c02cb9597894b91e6f7a6fbfad66ddc1e"
+
+[[files]]
+file = "config/overflowingbars-client.toml"
+hash = "354be363b38fe249c48c5a31d63b30c3ed05d231a3dfd5b5e66f20f0a0e3d26f"
+
+[[files]]
+file = "config/paraglider-common.toml"
+hash = "b2088aad035fd55ebe4f539685043cf11f5a07f251096cffcf9b6a3a86e57807"
+
+[[files]]
+file = "config/paraglider-player-states.toml"
+hash = "7d315bf5ee0f736da0f4906605e5697c89b8d2bd3158aff8476ad84a99d82221"
+
+[[files]]
+file = "config/paraglider-server.toml"
+hash = "7fc3834a866660c5025e357b5f7b68f41981d981169698c9f0e1741fc2ddd660"
 
 [[files]]
 file = "config/patpat/patpat/ignore_mob_list.txt"
@@ -185,12 +249,20 @@ file = "config/roughlyenoughitems/pinyin_double.properties"
 hash = "7a348c4d1f246a9a12d44c522d74d7300819a40ca8364134b13a62116b3a8103"
 
 [[files]]
+file = "config/selling_bin-client.toml"
+hash = "cde57c7ac89e06d369a4aff23938e96e1f05f3a6eecdcf41230d0f5932b4ba9e"
+
+[[files]]
+file = "config/selling_bin-server.toml"
+hash = "cb30f5301d2c4306fe9516f95f88fa0922f2b6ade07a8982db5644e7d0da2360"
+
+[[files]]
 file = "config/skinrestorer/config.json"
 hash = "f534c528527dec2b5d13f9817b97179ba4107bec810d2ed4c605876a37b8b79f"
 
 [[files]]
 file = "config/sodium-fingerprint.json"
-hash = "cc2d513d038cc10a03dd106374e00751e95de196f84c76bd18a74ddfc3c52b7f"
+hash = "457a6003f801fda1b8a3098385634b8d54474fb7fa9e462f2f78aa3d44b997d1"
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -215,6 +287,18 @@ hash = "32387a4707a2f523eaf9002df99ad8f88ac3811b17333dc3ef8ccb759ecd3762"
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
 hash = "9573c64dd047712ef1c7ec7f8e2a2b442906f7272eb0c0c73986fc876a3e6235"
+
+[[files]]
+file = "config/starcatcher-client.toml"
+hash = "501fe731033c6d9abd9febfbe76ad53797c9d0874c29b63dd2416837172d1722"
+
+[[files]]
+file = "config/starcatcher-server.toml"
+hash = "30c8c13be767a047321aa24e950aaa998e49944c6c943d048dc892b7d638f777"
+
+[[files]]
+file = "config/tinymultiblocklib-client.toml"
+hash = "0f0ad3976752093131f25193c3b3a2e52dad95a5fa443f71d4da3f4080a29196"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
@@ -269,6 +353,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "0674346c4afee26295c844cd0101795c44948afcb67b2bacdc77ea6b0b6a5c59"
+metafile = true
+
+[[files]]
+file = "mods/crops-love-rain.pw.toml"
+hash = "b6e2ab3fed797e1f2624f7ce757c0c66f4e51c08b0631576a08f5cef7a4c3214"
 metafile = true
 
 [[files]]
@@ -342,6 +431,11 @@ hash = "340dd055d9809ccd623a5208429dda4bf8f3fe362c72840c8d7f1b0a58b99145"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "e71ee3162e06570b2ca15427c426fda8f12fa69361efbb0a4310f8fc3dedb6fe"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "4e891d3f343ae3be0923141e638db2d641f450fc2170578cec436d898b358199"
 metafile = true
@@ -349,6 +443,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "780e21c1d03acbd35f149453fac0d03ce471f8a6f1d13dc3c0bfdbb8aceb1cfa"
+metafile = true
+
+[[files]]
+file = "mods/mezzconfig.pw.toml"
+hash = "00711d537589bc3f3be13b3aa1b7c51f6d3ac67d9e84e39b69a7f5dda5809409"
 metafile = true
 
 [[files]]
@@ -428,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "bc49aa0443153a4a81b75b9e7eb67f2d52f90fc4248e6c317bc6e1d1ec16928f"
+hash = "4a125c24ba6ab5f3b16976b78d555f88f13bc46d969e36b156d67dfc0b65fd2f"
 
 [[files]]
 file = "resourcepacks/fa-player-extension.pw.toml"
@@ -457,7 +556,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/Mellow v3.4.1a.zip.txt"
-hash = "971aac53acf7a2bf6ab7e373f4573d1ede6cbc2d9c3c6b6bea948b2c3947599d"
+hash = "0b13fc066ba14dbd2e3f620c84a3a13a7fc6a9f9779d166067c4991889e524b9"
 
 [[files]]
 file = "shaderpacks/mellow.pw.toml"

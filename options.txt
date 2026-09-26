@@ -64,7 +64,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","mod_resources","file/Serified Font v1.2.zip","file/Simple Grass Flowers v2.0.0.zip","file/Low Fire.zip","file/FreshAnimations_v1.10.5.zip","file/FA+Player-v1.1.zip"]
+resourcePacks:["serilum_mod_translations","vanilla","mod_resources","file/Serified Font v1.2.zip","file/Simple Grass Flowers v2.0.0.zip","file/Low Fire.zip","file/FreshAnimations_v1.10.5.zip","file/FA+Player-v1.1.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:pt_br
@@ -199,12 +199,12 @@ key_key.libtooltips.expand:key.keyboard.left.shift
 soundCategory_master:1.0
 soundCategory_music:0.0
 soundCategory_record:1.0
-soundCategory_weather:1.0
+soundCategory_weather:0.25
 soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
 soundCategory_player:1.0
-soundCategory_ambient:0.20443441901408466
+soundCategory_ambient:0.2
 soundCategory_voice:1.0
 soundCategory_ui:1.0
 modelPart_cape:true
