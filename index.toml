@@ -435,11 +435,6 @@ hash = "b55c2455596a9bd9ad627a344b61c450b522085a50a6701ff0152820a1263e6f"
 metafile = true
 
 [[files]]
-file = "mods/inventory-particles.pw.toml"
-hash = "acb326f54c4a29eb810aa9bf5139846edd4a880e5c9b28fa22f070e1a2122f4a"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "963514f43dc039eb17887f45aa8038ff8aeb16a14f34aa350d0a713f48212322"
 metafile = true
