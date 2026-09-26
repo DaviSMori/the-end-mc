@@ -247,11 +247,6 @@ hash = "10804907aadb1117dd7231a8b31955ebb408e2fa1980e7ea7273c6139aa3b6f6"
 metafile = true
 
 [[files]]
-file = "mods/cosmetica.pw.toml"
-hash = "8e8186d427a30e844961e791f9911fee3342ffe99fe1ce77b465a72f461bcf7e"
-metafile = true
-
-[[files]]
 file = "mods/dungeons-and-taverns-pillager-outpost-overhaul.pw.toml"
 hash = "422363724a2b5cd166ea0ecfcc04f080187db0ca8951ea2627bd1e0dbb0dcc13"
 metafile = true
