@@ -1,0 +1,13 @@
+name = "Paragliders"
+filename = "Paraglider-neoforge-26.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/esqWA0aQ/versions/FTwrXq5l/Paraglider-neoforge-26.2.1.jar"
+hash-format = "sha512"
+hash = "088301d0b0931d21359104cc5f6d542bdbed5fcc9789766ea8c13fd29b3a81ff0b13198f4f56fcc8ea27e0eb3cef1771f4b6ca39d055d524c62cff9d55d411b7"
+
+[update]
+[update.modrinth]
+mod-id = "esqWA0aQ"
+version = "FTwrXq5l"

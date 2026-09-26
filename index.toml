@@ -217,6 +217,11 @@ file = "config/sound_physics_remastered/soundphysics.properties"
 hash = "9573c64dd047712ef1c7ec7f8e2a2b442906f7272eb0c0c73986fc876a3e6235"
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "57acf96b36adbdf82d86f5e51d1dd82f739b8232c0574c4b4a5b36cc8801f14c"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "f9de2bd5afab83d1c728de4dd1836da1fbcbf1339d6336e64e3d176e140eb6ed"
 metafile = true
@@ -229,6 +234,16 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "f28ab9f98e0fa9d40af36570706c9d246d16dbd3c84a293b2a32c81bc1145f14"
+metafile = true
+
+[[files]]
+file = "mods/better-archeology.pw.toml"
+hash = "192f6503c8469f89cd1cd0a9bd67f668c5f7e1ebbd38076b6ece8b2e9fc8ce3d"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "41220393ccfbe3410c6365441b353a28874b7ea173e1f6fdab4a8cd138734b3e"
 metafile = true
 
 [[files]]
@@ -249,6 +264,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "10804907aadb1117dd7231a8b31955ebb408e2fa1980e7ea7273c6139aa3b6f6"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "0674346c4afee26295c844cd0101795c44948afcb67b2bacdc77ea6b0b6a5c59"
 metafile = true
 
 [[files]]
@@ -279,6 +299,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "c5d8d78265586241cc56bcd4ca45e9b44b55a50399dd101a7be6ce6d5481d0a1"
+metafile = true
+
+[[files]]
+file = "mods/explorify.pw.toml"
+hash = "6adce6422e74091638dbd7872270ee58d9a22dc18340580f809cc50c739e0d4f"
 metafile = true
 
 [[files]]
@@ -317,11 +342,6 @@ hash = "340dd055d9809ccd623a5208429dda4bf8f3fe362c72840c8d7f1b0a58b99145"
 metafile = true
 
 [[files]]
-file = "mods/just-zoom.pw.toml"
-hash = "00b75e35323d8d3eff465e118c72727d8fd10ddaa7ad4d6faefe03e84b708e5d"
-metafile = true
-
-[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "4e891d3f343ae3be0923141e638db2d641f450fc2170578cec436d898b358199"
 metafile = true
@@ -342,6 +362,21 @@ hash = "7694aeb31f3affed0eb7ef76e2b1832e504a7680a9c5aefd16e452b0b8231ed2"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "d872734a64e4a95a9fd8cfa6856413e9c1502a3d053f52ac970face46ea9c953"
+metafile = true
+
+[[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "61eec12f0bad70d9ecd2a3e2bfe73652058a8071c3aa464165b3284f15e9e48b"
+metafile = true
+
+[[files]]
+file = "mods/paragliders.pw.toml"
+hash = "777d51a8f6b348ba84ba6c8737ac9a2e9be7f83309685ccb56d5f13e088a79f0"
+metafile = true
+
+[[files]]
 file = "mods/patpat.pw.toml"
 hash = "2b381db6f8e197d09ffe3c2165e43e0d069df3311d175dd0eba9b9aee8b44092"
 metafile = true
@@ -357,8 +392,18 @@ hash = "101bec732427e035468f1432d105ddc9109090b33ee29332975b72406a2ad5c9"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "3e08ff3498be7168fdf681b5e30d93bba3faf6a178ba32cfe6b70fb441cfe838"
+metafile = true
+
+[[files]]
 file = "mods/rei.pw.toml"
 hash = "08a5ef44232e0d98d300981eebd4018d90e077ea08861a47178af37f0b3c2bc2"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "f2ad457fb910689572498d5ad0d32988f6d07d39f9fcfa5a0cf783367cb151e8"
 metafile = true
 
 [[files]]

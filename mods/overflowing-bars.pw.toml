@@ -1,0 +1,13 @@
+name = "Overflowing Bars"
+filename = "OverflowingBars-v26.2.0-mc26.2.x-NeoForge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XD7XOrAF/versions/WZzzzt7w/OverflowingBars-v26.2.0-mc26.2.x-NeoForge.jar"
+hash-format = "sha512"
+hash = "636cf6c147d19a35a820b87d4e67d3a126076ccdb18672f89664dcd57593da3cd8a2f02c9e9b3db0f875624eb1e853a3fc7ce619b727ef266b128e0bd9756254"
+
+[update]
+[update.modrinth]
+mod-id = "XD7XOrAF"
+version = "WZzzzt7w"
