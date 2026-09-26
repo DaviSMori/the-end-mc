@@ -501,6 +501,11 @@ hash = "f2ad457fb910689572498d5ad0d32988f6d07d39f9fcfa5a0cf783367cb151e8"
 metafile = true
 
 [[files]]
+file = "mods/simple-menu.pw.toml"
+hash = "96b7e74717bbc4c34ff1f4d72ca2e6d8afd2452544c7eb214b301b934adf2e72"
+metafile = true
+
+[[files]]
 file = "mods/skinrestorer.pw.toml"
 hash = "44e3b1e768a644faf9f0da0f0e5c7b559b6057a649e284e97b984b5964391f3c"
 metafile = true
@@ -523,6 +528,11 @@ metafile = true
 [[files]]
 file = "mods/structory.pw.toml"
 hash = "3c4da8a221086153d491104bba4fd8796dac92d5c3e0b2dc111a6c5d53b65484"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "43a732332b55ca2c2af816a3b4f9265f8a3f2f8f140224778763605cad756310"
 metafile = true
 
 [[files]]
