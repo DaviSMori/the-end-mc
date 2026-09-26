@@ -520,6 +520,11 @@ hash = "96b7e74717bbc4c34ff1f4d72ca2e6d8afd2452544c7eb214b301b934adf2e72"
 metafile = true
 
 [[files]]
+file = "mods/sit.pw.toml"
+hash = "171f6ad79a05ca5e0ae1fbc55a9058e6a51f0bc1811845006b67da6ef51fc663"
+metafile = true
+
+[[files]]
 file = "mods/skinrestorer.pw.toml"
 hash = "44e3b1e768a644faf9f0da0f0e5c7b559b6057a649e284e97b984b5964391f3c"
 metafile = true
@@ -551,11 +556,16 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c9990cc17df247bc3d3200d4f35d15e8a429a8b51951e0746ec4ec3b5d3693c6"
+hash = "4dfcbc1312ed6990783fe315a3a996858af66efa9e3f0b7e0f02e97a37be376f"
 
 [[files]]
 file = "resourcepacks/fa-player-extension.pw.toml"
 hash = "b10943dd0c7472c8782d27e1239a851dfa41ee21608dff9207b84c0a81b56e20"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fatass-teto-totem.pw.toml"
+hash = "c218f3e6a1ca65708d93b6d0e08184abaf531b727412242f75fd009b28de5404"
 metafile = true
 
 [[files]]

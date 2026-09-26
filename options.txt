@@ -64,7 +64,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["serilum_mod_translations","vanilla","mod_resources","file/Serified Font v1.2.zip","file/Simple Grass Flowers v2.0.0.zip","file/Low Fire.zip","file/FreshAnimations_v1.10.5.zip","file/FA+Player-v1.1.zip","file/Gentler Weather Sounds 2.3.0.zip"]
+resourcePacks:["serilum_mod_translations","vanilla","mod_resources","file/Serified Font v1.2.zip","file/Simple Grass Flowers v2.0.0.zip","file/Low Fire.zip","file/FreshAnimations_v1.10.5.zip","file/FA+Player-v1.1.zip","file/Gentler Weather Sounds 2.3.0.zip","file/Fatass Teto Totem.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:pt_br

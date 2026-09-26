@@ -1,0 +1,13 @@
+name = "Sit"
+filename = "sit-neoforge-26.1.2-1.5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a06b8ca43e311e1ab57dfc38a5ab07a30bba6262"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7978180
+project-id = 278717

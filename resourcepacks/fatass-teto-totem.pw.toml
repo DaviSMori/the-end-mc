@@ -1,0 +1,13 @@
+name = "Fatass Teto Totem"
+filename = "Fatass Teto Totem.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f4db7c65f1a68e70c32c7fdf802e48650eeae70d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8526652
+project-id = 1629007
