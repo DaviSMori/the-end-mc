@@ -556,7 +556,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "4a125c24ba6ab5f3b16976b78d555f88f13bc46d969e36b156d67dfc0b65fd2f"
+hash = "c9990cc17df247bc3d3200d4f35d15e8a429a8b51951e0746ec4ec3b5d3693c6"
 
 [[files]]
 file = "resourcepacks/fa-player-extension.pw.toml"
@@ -566,6 +566,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "91f03f95a740457e053a3c265b56ebe3b26342205c5e25ba3e4668ed60312880"
+metafile = true
+
+[[files]]
+file = "resourcepacks/gentler-weather-sounds.pw.toml"
+hash = "fdfaeedd52dd6033ff646708a7cad6b485fa11aca2cdcb9a83b2efa03f2c5474"
 metafile = true
 
 [[files]]
