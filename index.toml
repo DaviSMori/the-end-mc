@@ -402,3 +402,7 @@ hash = "05984ed4c5fcf4a375cba86feecd0f1a52774c46725ca0e8a5fe172a4c5b6c88"
 file = "shaderpacks/mellow.pw.toml"
 hash = "d0889b2db02fda54395d7ae5802431281fa5eb8ad868aa0abd5e762bb37e2eaf"
 metafile = true
+
+[[files]]
+file = "update.ps1"
+hash = "20e2a76d58c9fce182731b0cff2c020f301906701e45a04d9057667136ed3944"
