@@ -64,7 +64,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["serilum_mod_translations","vanilla","mod_resources","file/Serified Font v1.2.zip","file/Simple Grass Flowers v2.0.0.zip","file/Low Fire.zip","file/FreshAnimations_v1.10.5.zip","file/FA+Player-v1.1.zip","file/Gentler Weather Sounds 2.3.0.zip","file/Fatass Teto Totem.zip"]
+resourcePacks:["vanilla","mod_resources","file/Serified Font v1.2.zip","file/Simple Grass Flowers v2.0.0.zip","file/Low Fire.zip","file/FreshAnimations_v1.10.5.zip","file/FA+Player-v1.1.zip","file/Gentler Weather Sounds 2.3.0.zip","file/Fatass Teto Totem.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:pt_br
@@ -235,7 +235,7 @@ key_key.jei.closeRecipeGui:key.keyboard.escape
 key_key.jei.copy.recipe.id:key.keyboard.unknown
 soundCategory_master:1.0
 soundCategory_music:0.0
-soundCategory_record:1.0
+soundCategory_record:0.2
 soundCategory_weather:0.25
 soundCategory_block:1.0
 soundCategory_hostile:1.0

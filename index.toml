@@ -570,7 +570,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "4dfcbc1312ed6990783fe315a3a996858af66efa9e3f0b7e0f02e97a37be376f"
+hash = "e2c0289c08e3dc4bd1b1ff5c224bf9ce9d04587662aa78ae557f7fc0a439927f"
 
 [[files]]
 file = "resourcepacks/fa-player-extension.pw.toml"
