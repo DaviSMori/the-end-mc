@@ -397,11 +397,6 @@ hash = "3e08ff3498be7168fdf681b5e30d93bba3faf6a178ba32cfe6b70fb441cfe838"
 metafile = true
 
 [[files]]
-file = "mods/rei.pw.toml"
-hash = "08a5ef44232e0d98d300981eebd4018d90e077ea08861a47178af37f0b3c2bc2"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "f2ad457fb910689572498d5ad0d32988f6d07d39f9fcfa5a0cf783367cb151e8"
 metafile = true
