@@ -1,0 +1,13 @@
+name = "Distant Friends"
+filename = "DistantFriends-neoforge-26.2-0.16.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CDaJ8xGu/versions/ehEm0n6V/DistantFriends-neoforge-26.2-0.16.2.jar"
+hash-format = "sha512"
+hash = "1596b2ecdea057b732363f60d1c66e1f55f69c35a4bd7cb265178e430e873e888cdbfd67493f701691aaace31c3770c64fd15d57c2e413bc927878e197c72365"
+
+[update]
+[update.modrinth]
+mod-id = "CDaJ8xGu"
+version = "ehEm0n6V"

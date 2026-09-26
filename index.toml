@@ -380,6 +380,11 @@ hash = "b6e2ab3fed797e1f2624f7ce757c0c66f4e51c08b0631576a08f5cef7a4c3214"
 metafile = true
 
 [[files]]
+file = "mods/distant-friends.pw.toml"
+hash = "161c5853703dc3ef46521a4d7eb5cc24a35e376cbc68beb702d4b1dded944815"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns-pillager-outpost-overhaul.pw.toml"
 hash = "422363724a2b5cd166ea0ecfcc04f080187db0ca8951ea2627bd1e0dbb0dcc13"
 metafile = true
