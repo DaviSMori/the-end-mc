@@ -57,6 +57,10 @@ file = "config/creativecore.json"
 hash = "5f08d0878d7f89c6b4c947a49dce368d7738255d44fecf9aad59ec6ae8a4fcef"
 
 [[files]]
+file = "config/distantfriends-common.toml"
+hash = "0e15fa919ea34227d3bc405fa6d51e0dd18a8c936595aa5e46ce62e85292450a"
+
+[[files]]
 file = "config/ecologics-common.toml"
 hash = "43d85eee37049a4624e00b20be7d5123b4df52e1c8cd67be9c6e1253089dcd9c"
 
