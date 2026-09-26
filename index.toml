@@ -242,6 +242,11 @@ hash = "2f4aab8106abdbf4482e8a0df58edf298f0359d1fac0e56dd59adfa9906b7d62"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "568b401e76de2dffd12f42b14e063d0ab82998493c9bb4c80952028e06ff354e"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "10804907aadb1117dd7231a8b31955ebb408e2fa1980e7ea7273c6139aa3b6f6"
 metafile = true
@@ -322,8 +327,18 @@ hash = "780e21c1d03acbd35f149453fac0d03ce471f8a6f1d13dc3c0bfdbb8aceb1cfa"
 metafile = true
 
 [[files]]
+file = "mods/naturalist.pw.toml"
+hash = "7694aeb31f3affed0eb7ef76e2b1832e504a7680a9c5aefd16e452b0b8231ed2"
+metafile = true
+
+[[files]]
 file = "mods/patpat.pw.toml"
 hash = "2b381db6f8e197d09ffe3c2165e43e0d069df3311d175dd0eba9b9aee8b44092"
+metafile = true
+
+[[files]]
+file = "mods/pehkui-rebuilt.pw.toml"
+hash = "a897ab303427865a47f1978da3d392c98f6d1eedb6335597f46309ed4c1c574b"
 metafile = true
 
 [[files]]
@@ -354,6 +369,11 @@ metafile = true
 [[files]]
 file = "mods/structory.pw.toml"
 hash = "3c4da8a221086153d491104bba4fd8796dac92d5c3e0b2dc111a6c5d53b65484"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "b725323222c04868aa68b032d8d7daece66d73a0ade3e568ab8fdab9c54aa98c"
 metafile = true
 
 [[files]]

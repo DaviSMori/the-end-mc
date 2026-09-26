@@ -1,0 +1,13 @@
+name = "Naturalist"
+filename = "naturalist-2.0.5-neoforge-26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F8BQNPWX/versions/ADO8VaID/naturalist-2.0.5-neoforge-26.2.jar"
+hash-format = "sha512"
+hash = "a48f08c271b25bc69489cb5081266767b576c8a2bf837e3a4d06c49e7a550690afe3f8fbd9f2f5aa0e476fb5f33f08f974946507e79013554746002976e56c08"
+
+[update]
+[update.modrinth]
+mod-id = "F8BQNPWX"
+version = "ADO8VaID"
