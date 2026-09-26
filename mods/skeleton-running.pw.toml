@@ -1,0 +1,13 @@
+name = "One in 2000 Skeleton"
+filename = "runningskeleton-26.2-neoforge-1.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/duncPoOb/versions/5032ugch/runningskeleton-26.2-neoforge-1.0.3.jar"
+hash-format = "sha512"
+hash = "7f1e1c4d0497b848161e4224c80c8044135f8f4dd3a491ff043d4db04370e00f5c38fad94933cb07e4111366c7cad2bb6a836c20fcbcaa456b93678f72f1a224"
+
+[update]
+[update.modrinth]
+mod-id = "duncPoOb"
+version = "5032ugch"

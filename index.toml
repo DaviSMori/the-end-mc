@@ -525,6 +525,11 @@ hash = "171f6ad79a05ca5e0ae1fbc55a9058e6a51f0bc1811845006b67da6ef51fc663"
 metafile = true
 
 [[files]]
+file = "mods/skeleton-running.pw.toml"
+hash = "083c4639e2649783304d2addcde9b1d015f99ddc191f062e79676c0fee862da5"
+metafile = true
+
+[[files]]
 file = "mods/skinrestorer.pw.toml"
 hash = "44e3b1e768a644faf9f0da0f0e5c7b559b6057a649e284e97b984b5964391f3c"
 metafile = true
