@@ -363,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "9dcb86622a1064d33a03c56a9c1635d9cc9d6755a9cbc07ccc8283d00a9c433c"
+hash = "6607aea0e7774d576aa2206e8d79108d0a7221cdfbdb96a05d144ab10fd6dd4a"
 
 [[files]]
 file = "resourcepacks/fa-player-extension.pw.toml"
@@ -396,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/Mellow v3.4.1a.zip.txt"
-hash = "c4d908ab376f0ca4e5b12e4fc644bb5b980527ef408278337292c68de458855a"
+hash = "789905df431b158b87bc55fa080043c9d8cabb8a88aaf9bc8a64112cca54d140"
 
 [[files]]
 file = "shaderpacks/mellow.pw.toml"

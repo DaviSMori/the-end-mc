@@ -64,8 +64,8 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","mod_resources","file/Serified Font v1.2.zip","file/Simple Grass Flowers v2.0.0.zip","file/Low Fire.zip","file/FreshAnimations_v1.10.5.zip","file/+1.21.3 Fresh Moves v3.1.1 (With Animated Eyes).zip","file/matcha-vanilla-flavoured-1-12.zip","file/Comforts Modernized - V1.1.zip"]
-incompatibleResourcePacks:["file/+1.21.3 Fresh Moves v3.1.1 (With Animated Eyes).zip","file/Comforts Modernized - V1.1.zip"]
+resourcePacks:["vanilla","mod_resources","file/Serified Font v1.2.zip","file/Simple Grass Flowers v2.0.0.zip","file/Low Fire.zip","file/FreshAnimations_v1.10.5.zip","file/matcha-vanilla-flavoured-1-12.zip","file/FA+Player-v1.1.zip"]
+incompatibleResourcePacks:[]
 lastServer:
 lang:pt_br
 chatVisibility:0
@@ -92,9 +92,9 @@ mouseWheelSensitivity:1.0
 rawMouseInput:true
 allowCursorChanges:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 syncChunkWrites:true
 showAutosaveIndicator:true
 allowServerListing:true
