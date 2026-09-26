@@ -1,0 +1,43 @@
+{
+  "version": "1.0.2",
+  "main": {
+    "modEnabled": true,
+    "debugLogEnabled": false,
+    "patCombination": {
+      "attributeKey": "key.keyboard.left.shift",
+      "key": "key.mouse.right"
+    }
+  },
+  "resourcePacks": {
+    "skipOldAnimationsEnabled": false
+  },
+  "sounds": {
+    "soundsEnabled": true,
+    "soundsVolume": 1.0
+  },
+  "visual": {
+    "hidingNicknameEnabled": true,
+    "clientSwingHandEnabled": true,
+    "serverSwingHandEnabled": true,
+    "animationOffsets": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "cameraShackingEnabled": true,
+    "patWeight": 0.425
+  },
+  "multiplayer": {
+    "bypassServerResourcePackPriorityEnabled": false,
+    "patMeEnabled": true,
+    "listMode": "DISABLED"
+  },
+  "proximityPackets": {
+    "proximityPacketsEnabled": false,
+    "maxPacketsPerSecond": 5,
+    "isBlacklist": false
+  },
+  "fun": {
+    "pvpMode": "disabled"
+  }
+}

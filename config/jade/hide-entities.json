@@ -1,0 +1,10 @@
+{
+  "__comment": "Esta é uma lista de ignorados do Jade. Você pode adicionar IDs de registro à lista \"values\".",
+  "values": [
+    "area_effect_cloud",
+    "firework_rocket",
+    "interaction",
+    "text_display",
+    "lightning_bolt"
+  ]
+}

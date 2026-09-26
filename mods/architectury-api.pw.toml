@@ -1,0 +1,13 @@
+name = "Architectury API"
+filename = "architectury-neoforge-21.1.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/WXXSGlES/architectury-neoforge-21.1.10.jar"
+hash-format = "sha512"
+hash = "533f938b40e95f53a021da0247758579c1b65840d37b6b00266e0ddbe2cc80c9f19c0844398630c09c1328ab9a3794e1e4507946124d2d302e11db20ded93fb6"
+
+[update]
+[update.modrinth]
+mod-id = "lhGA9TYQ"
+version = "WXXSGlES"

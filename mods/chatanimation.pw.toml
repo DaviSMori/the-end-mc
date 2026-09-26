@@ -1,0 +1,13 @@
+name = "Chat Animation [Smooth Chat]"
+filename = "chatanimation-neoforge-1.3.3+mc26.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DnNYdJsx/versions/dQkDIi4T/chatanimation-neoforge-1.3.3%2Bmc26.2.jar"
+hash-format = "sha512"
+hash = "a508dd7ec36a45122f98a1aa20059c22feddb0a2d9a1a7cab45c4f803bfaf61640e387415849cc34962ade7d9e66b75c0a405efb637fe16425e4f66e7652db06"
+
+[update]
+[update.modrinth]
+mod-id = "DnNYdJsx"
+version = "dQkDIi4T"

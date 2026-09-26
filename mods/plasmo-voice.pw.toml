@@ -1,0 +1,13 @@
+name = "Plasmo Voice"
+filename = "plasmovoice-neoforge-26.2-2.1.17.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1bZhdhsH/versions/QqZ4grre/plasmovoice-neoforge-26.2-2.1.17.jar"
+hash-format = "sha512"
+hash = "6db001b584bad981985673e9596c3de25326147d751d2d9b401c755e4ea024af03db562a495ba5c8b6a1c20087b491b6e7ebd9a43500175df97f82317eaf9d5d"
+
+[update]
+[update.modrinth]
+mod-id = "1bZhdhsH"
+version = "QqZ4grre"
