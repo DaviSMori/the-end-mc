@@ -350,11 +350,6 @@ hash = "192f6503c8469f89cd1cd0a9bd67f668c5f7e1ebbd38076b6ece8b2e9fc8ce3d"
 metafile = true
 
 [[files]]
-file = "mods/cc-tweaked.pw.toml"
-hash = "41220393ccfbe3410c6365441b353a28874b7ea173e1f6fdab4a8cd138734b3e"
-metafile = true
-
-[[files]]
 file = "mods/chatanimation.pw.toml"
 hash = "26897dd51bf837e6b1f213873a0ee429a8fb3ba5c107cfd362910a035efe28ca"
 metafile = true
