@@ -377,6 +377,11 @@ hash = "56cbcd79f1d444ab733aa39e4835a970fde9d8687d050defdcbc44b6d9368326"
 metafile = true
 
 [[files]]
+file = "mods/starcatcher.pw.toml"
+hash = "8a01ce6dd2cf714f3a017f04dca951f20f40c44cfe67d095ec76a3651f7c6763"
+metafile = true
+
+[[files]]
 file = "mods/structory.pw.toml"
 hash = "3c4da8a221086153d491104bba4fd8796dac92d5c3e0b2dc111a6c5d53b65484"
 metafile = true
