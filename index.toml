@@ -334,6 +334,11 @@ hash = "57acf96b36adbdf82d86f5e51d1dd82f739b8232c0574c4b4a5b36cc8801f14c"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "944104c0ced6f5d5a7dae365d0b76a86f13e99ccbf0f93d0fde609c64fac304f"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "f9de2bd5afab83d1c728de4dd1836da1fbcbf1339d6336e64e3d176e140eb6ed"
 metafile = true
@@ -439,11 +444,6 @@ hash = "a25c9bea00a19293f8b2c5958dea71e60fbe6db7800693862c3e8f624750f4b6"
 metafile = true
 
 [[files]]
-file = "mods/hardcore-revival.pw.toml"
-hash = "b55c2455596a9bd9ad627a344b61c450b522085a50a6701ff0152820a1263e6f"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "963514f43dc039eb17887f45aa8038ff8aeb16a14f34aa350d0a713f48212322"
 metafile = true
@@ -546,6 +546,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "4872e18eafd42dc75a9af8af495d65e83fbba3f56db151a5cf42de9d2543f727"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "484728fc56caff2e2cc9e66aafda81c39c832ee3d85739975187ea765d5915db"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "3ed18f7cd5aa4c82fc16785e21f55c63a3968b3fd2a89bda1f1ee79f68602556"
 metafile = true
 
 [[files]]
