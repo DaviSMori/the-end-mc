@@ -262,7 +262,7 @@ hash = "cb30f5301d2c4306fe9516f95f88fa0922f2b6ade07a8982db5644e7d0da2360"
 
 [[files]]
 file = "config/simplemenu.json5"
-hash = "8c3eaab1d5f8761583861a47122661306ec9741088b8d37c46c8f4e7fe48743e"
+hash = "8e4e392056727d7aa0d254eba23647a38ec68b0b014a9487026c5f8c62eeb145"
 
 [[files]]
 file = "config/simplemenu/background/background.png"
@@ -282,7 +282,7 @@ hash = "5e59d3f7baa7996eb6ad6c5b66deacad77da51c9176ca9b5b5197131bb9c97be"
 
 [[files]]
 file = "config/simplemenu/logo/logo.png"
-hash = "9b9d0e609acafcd55c471e333d0805e95447e850c61d88aacd7e07f0cd8b2efa"
+hash = "ec087ec89e274363ec4b04fc0f3dfcb0d57d3c56f7f08236be98a7d4f85b018c"
 
 [[files]]
 file = "config/skinrestorer/config.json"
