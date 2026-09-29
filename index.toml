@@ -359,6 +359,11 @@ hash = "192f6503c8469f89cd1cd0a9bd67f668c5f7e1ebbd38076b6ece8b2e9fc8ce3d"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "1b4704c78f6b159ed37de6e116dcb0b4500b44e5f388fe45d66828178b66f7d5"
+metafile = true
+
+[[files]]
 file = "mods/chatanimation.pw.toml"
 hash = "26897dd51bf837e6b1f213873a0ee429a8fb3ba5c107cfd362910a035efe28ca"
 metafile = true
@@ -439,9 +444,18 @@ hash = "2a7c249ab93b346796a78ad1a4e215dc86fac6a1008e4c15d2bb20a85071cfae"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "ecd9e70faca5584f8cb488905c333f9eeef03193674f03692a7bb32f1283fcdc"
+metafile = true
+
+[[files]]
 file = "mods/geophilic.pw.toml"
 hash = "a25c9bea00a19293f8b2c5958dea71e60fbe6db7800693862c3e8f624750f4b6"
 metafile = true
+
+[[files]]
+file = "mods/gomasoftwareinc-1.0.0.jar"
+hash = "9c855363b69c8560c16d02e9a82bddb91ad3202b88f69f9a10cef86941682ce7"
 
 [[files]]
 file = "mods/iris.pw.toml"
