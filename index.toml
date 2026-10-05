@@ -483,8 +483,18 @@ hash = "58ae028875d2e86485bd4732bf5cb960e74a785702c8d5381561f9a05f131366"
 metafile = true
 
 [[files]]
+file = "mods/mes-moogs-end-structures.pw.toml"
+hash = "66e27964c598c333a9082695989d293e554c42a8a295c6cfdc56685bb01d0f4e"
+metafile = true
+
+[[files]]
 file = "mods/mezzconfig.pw.toml"
 hash = "00711d537589bc3f3be13b3aa1b7c51f6d3ac67d9e84e39b69a7f5dda5809409"
+metafile = true
+
+[[files]]
+file = "mods/moogs-structure-lib.pw.toml"
+hash = "a6521e2d5a1d84cfeb6ed096e3c218bd5e4e8992975f4634c1ff6a69d27bbe7e"
 metafile = true
 
 [[files]]
