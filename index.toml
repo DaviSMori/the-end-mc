@@ -648,7 +648,7 @@ metafile = true
 
 [[files]]
 file = "servers.dat"
-hash = "9f0697e76c6cb97f7b100b10cab085dc1db1ae3d62620694ac4c729e60dd61e1"
+hash = "2926949e23fd19cc5d1487081679b0d5f0ffc3227280facf13596f0ddbc7ab4e"
 
 [[files]]
 file = "shaderpacks/Mellow v3.4.1a.zip.txt"
