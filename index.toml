@@ -460,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/gomasoftwareinc-1.0.1.jar"
-hash = "00d03c75e0139a3816880fac5463b3412bf9101ccdecdc1c0f065e817b0acc73"
+hash = "f8b4466da63a2a1ae0c18f04d57d9e82af42642c0039b0e71a301188e122e4b8"
 
 [[files]]
 file = "mods/iris.pw.toml"
@@ -553,6 +553,11 @@ hash = "f2ad457fb910689572498d5ad0d32988f6d07d39f9fcfa5a0cf783367cb151e8"
 metafile = true
 
 [[files]]
+file = "mods/shogi.pw.toml"
+hash = "09da9f9eba8637ca2ff04779c2b9d68ded1fdffc7addf4360f281a107c691a07"
+metafile = true
+
+[[files]]
 file = "mods/simple-menu.pw.toml"
 hash = "96b7e74717bbc4c34ff1f4d72ca2e6d8afd2452544c7eb214b301b934adf2e72"
 metafile = true
@@ -600,6 +605,11 @@ metafile = true
 [[files]]
 file = "mods/structory.pw.toml"
 hash = "3c4da8a221086153d491104bba4fd8796dac92d5c3e0b2dc111a6c5d53b65484"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "c602a476a7c74840643a4fd91a1125f393968f2078adb43789be632b0861c4df"
 metafile = true
 
 [[files]]
