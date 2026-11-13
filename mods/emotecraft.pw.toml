@@ -1,0 +1,13 @@
+name = "Emotecraft"
+filename = "emotecraft-for-MC26.2-3.4.0-b.build.178.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/w8IkxIFf/emotecraft-for-MC26.2-3.4.0-b.build.178.jar"
+hash-format = "sha512"
+hash = "162b118901feea2e9cd92993370f177ed3089b636923f82d006b512a5f03de88f9467ae9aa2206bc315eec1f9622a84c2db684a8e900e8886fd806078f1f3508"
+
+[update]
+[update.modrinth]
+mod-id = "pZ2wrerK"
+version = "w8IkxIFf"

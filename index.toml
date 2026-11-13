@@ -65,6 +65,10 @@ file = "config/ecologics-common.toml"
 hash = "43d85eee37049a4624e00b20be7d5123b4df52e1c8cd67be9c6e1253089dcd9c"
 
 [[files]]
+file = "config/emotecraft.json"
+hash = "b5b76a29702ddf78a4fa1dc07f50e5694f5203fbac05be90b9b4f76cdd2b51f2"
+
+[[files]]
 file = "config/entity_model_features.json"
 hash = "e0f8ab833d6b4625b6a0566ef2c1b6010368f05003508fc30f96aa5275690cd4"
 
@@ -419,6 +423,11 @@ hash = "5406e7124c25ec7cc54e997020a24e0d9369179c8e71eff6696138b7536b11b0"
 metafile = true
 
 [[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "98ab5be03902be81f36306cea0160f6af6764ff4d85350cd0b53e3d327ce43d7"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "16b298c49af403253c7af4136cde57b290353c22551e7f62db4b87bfdde143c3"
 metafile = true
@@ -540,6 +549,11 @@ metafile = true
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "101bec732427e035468f1432d105ddc9109090b33ee29332975b72406a2ad5c9"
+metafile = true
+
+[[files]]
+file = "mods/player-animation-library.pw.toml"
+hash = "b76270e9169affe12ece1a7993c1aaa6b9f32d815ff4275e15f8be13b89a6d03"
 metafile = true
 
 [[files]]
