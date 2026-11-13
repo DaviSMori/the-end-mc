@@ -459,8 +459,8 @@ hash = "a25c9bea00a19293f8b2c5958dea71e60fbe6db7800693862c3e8f624750f4b6"
 metafile = true
 
 [[files]]
-file = "mods/gomasoftwareinc-1.0.1.jar"
-hash = "f8b4466da63a2a1ae0c18f04d57d9e82af42642c0039b0e71a301188e122e4b8"
+file = "mods/gomasoftwareinc-1.0.2.jar"
+hash = "551dcc7ea17755170a9e275f329eeddd3371f801f92bec0c6ddd82f0aee5a606"
 
 [[files]]
 file = "mods/iris.pw.toml"
